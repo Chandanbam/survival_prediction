@@ -79,3 +79,8 @@ flagged/
 # Docker
 #.docker/
 #.dockerignore
+
+# Data folders
+Grafana/grafana-data/
+Prometheus/prometheus-data/
+Grafana/env.list
